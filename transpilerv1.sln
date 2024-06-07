@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "transpilerv1", "transpilerv1\transpilerv1.fsproj", "{4623B482-B2CD-4F4E-B358-86E3A1B071CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4623B482-B2CD-4F4E-B358-86E3A1B071CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4623B482-B2CD-4F4E-B358-86E3A1B071CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4623B482-B2CD-4F4E-B358-86E3A1B071CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4623B482-B2CD-4F4E-B358-86E3A1B071CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12D53BF-653B-462C-9C79-25EC37CE8D8C}
+	EndGlobalSection
+EndGlobal
